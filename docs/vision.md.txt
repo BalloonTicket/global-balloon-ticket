@@ -1,0 +1,19 @@
+# Global Balloon Ticket — Vision
+
+## Problem
+Pogoda niszczy doświadczenie pasażera i marketing operatorów. Loty są odwoływane, a bilety przepadają.
+
+## Rozwiązanie
+Globalny bilet balonowy, który działa u wielu operatorów na całym świecie.
+
+## Dla kogo
+- Pasażerowie, którzy chcą pewności i elastyczności.
+- Operatorzy, którzy chcą lepszego wykorzystania miejsc i większej sprzedaży.
+
+## MVP (Minimum Viable Product)
+1. Bilet (wartość, ważność, właściciel)
+2. Operator (profil, kalendarz)
+3. Rezerwacja (pasażer zapisuje się na termin)
+
+## Cel
+Stworzyć globalną platformę balonową, która łączy operatorów i pasażerów.
